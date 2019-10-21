@@ -1,0 +1,19 @@
+{
+  "token": "IizGK93XaU2IK9Mp0_u2XA",
+  "data": {
+    "email": "internetEmail",
+    "first_name": "nameFirst",
+    "last_name": "nameLast",
+    "nickname": "personNickname",
+    "avatar": "personAvatar",
+    "facebook": "stringDigits",
+    "twitter": "stringDigits",
+    "instagram": "stringDigits",
+    "gender": "personGender",
+    "bio": "stringLong",
+    "last_login": {
+      "date_time": "dateTime|UNIX",
+      "ip4": "internetIP4"
+    }
+  }
+}
