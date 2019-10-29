@@ -1,4 +1,5 @@
 # react-practice-projects
-Just a Place to practice react
+Just a Place to practice react and open source!
 
-Testing WebHook
+Most of these are from https://daveceddia.com/react-practice-projects/. 
+
