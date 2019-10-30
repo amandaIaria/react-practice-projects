@@ -1,7 +1,6 @@
 # react-practice-projects
 Just a Place to practice react and open source! People are more than welcome to add to this :D. 
 
-___
 
 ## React Projects
 
@@ -11,7 +10,6 @@ Create a social card that gets populated by JSON. You can either set up the JSON
 ### Redux Practice! 
 https://redux.js.org/basics/example-todo-list
 
-____
 
 ## Links
 
@@ -25,7 +23,6 @@ __Help__
 
 -  https://github.com/facebook/react
 
-___
 
 # Open Source
 
