@@ -24,6 +24,6 @@ __Help__
 -  https://github.com/facebook/react
 
 
-# Open Source
+## Open Source
 
 For your first time even trying, check out https://github.com/firstcontributions/first-contributions
